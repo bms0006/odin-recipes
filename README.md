@@ -1,2 +1,2 @@
 # odin-recipes
-HTML Basics Websites
+HTML Basics Website
